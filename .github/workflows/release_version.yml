@@ -15,4 +15,4 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         WITH_V: false
-        CUSTOM_TAG: 0.0.0.0
+        CUSTOM_TAG: release_1.0.0.1
